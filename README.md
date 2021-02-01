@@ -41,6 +41,15 @@
 
 ![Zidan Indratama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&show_icons=true&theme=buefy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanindratama&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/zidanindratama/final-project-spp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats?theme=buefy" />
+</a>
+<a href="https://github.com/zidanindratama/landing-page-restaurant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat?theme=buefy" />
+</a>
+
 [website]: https://zidanindratama.com
 [twitter]: https://twitter.com/zidanindratama
 [youtube]: https://www.youtube.com/channel/UCmk4uEhjWsT1wrax67VHSIA
