@@ -37,6 +37,10 @@
 <br />
 <br />
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&show_icons=true&theme=radical)
+
 [website]: https://zidanindratama.com
 [twitter]: https://twitter.com/zidanindratama
 [youtube]: https://www.youtube.com/channel/UCmk4uEhjWsT1wrax67VHSIA
