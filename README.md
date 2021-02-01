@@ -41,7 +41,7 @@
 
 ![Zidan Indratama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanindratama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanindratama)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://zidanindratama.com
 [twitter]: https://twitter.com/zidanindratama
