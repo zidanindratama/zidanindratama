@@ -39,7 +39,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&show_icons=true&theme=buefy)
+![Zidan Indratama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&show_icons=true&theme=buefy)
 
 [website]: https://zidanindratama.com
 [twitter]: https://twitter.com/zidanindratama
