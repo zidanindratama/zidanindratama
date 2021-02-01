@@ -41,6 +41,8 @@
 
 ![Zidan Indratama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&show_icons=true&theme=buefy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanindratama&layout=compact)](https://github.com/zidanindratama/github-readme-stats)
+
 [website]: https://zidanindratama.com
 [twitter]: https://twitter.com/zidanindratama
 [youtube]: https://www.youtube.com/channel/UCmk4uEhjWsT1wrax67VHSIA
