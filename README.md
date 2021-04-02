@@ -2,7 +2,7 @@
 
 ## I'm a Son, Developer, and Student!
 
-- 🔭 I’m currently working on a project "Pizzeria"!
+- 🔭 I’m currently working on a ReactJs project!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🙏 2021 Goals: Contribute more to Open Source projects
