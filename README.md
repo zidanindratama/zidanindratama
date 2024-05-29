@@ -4,6 +4,22 @@
 <h1 align="center">Hi 👋, I'm Zidan Indratama</h1>
 <h3 align="center">I'm a full-stack web developer. My standout quality lies in my unwavering passion for crafting seamless UI/UX designs, a skill that sets me apart in the industry.</h3>
 
+<p align="center">
+ <a href="https://zidanindratama.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="zidanindratama" />
+ </a>
+ <a href="https://linkedin.com/in/zidan-indratama" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zidanindratama"/>
+ </a>
+ <a href="https://twitter.com/zidanindratama" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/zidanindratama" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="zidanindratama" />
+ </a> 
+</p>
+<br />
+
 ## About Me
 
 - 🔭 I’m currently working on [BREVET](https://tax-center-brevet.vercel.app/)
