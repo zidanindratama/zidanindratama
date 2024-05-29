@@ -1,46 +1,15 @@
-### Hi there, I'm Zidan Indratama - aka [Zidan][twitter] 👋
+<h1 align="center">Hi 👋, I'm Zidan Indratama</h1>
+<h3 align="center">I'm a full-stack web developer. My standout quality lies in my unwavering passion for crafting seamless UI/UX designs, a skill that sets me apart in the industry.</h3>
 
-## I'm a Son, Developer, and Student!
+## About Me
 
-- 🔭 I’m currently working on a ReactJs project!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🙏 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movie and play horror game
-
-### Connect with me:
-
-[<img align="left" alt="zidanindratama.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][twitter]
-[<img align="left" alt="zidanindratama | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="zidanindratama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="zidanindratama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
-[<img align="left" alt="zidanindratama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][twitter]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][twitter]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][twitter]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][twitter]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][twitter]
-[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][twitter]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][twitter]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][twitter]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][twitter]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][twitter]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][twitter]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][twitter]
-
-
-<br />
-<br />
+- 🔭 I’m currently working on [BREVET](https://tax-center-brevet.vercel.app/)
+- 🌱 I’m currently learning **NextJS, NestJS, and Docker**
+- 👯 I’m looking to collaborate on [TRAVOLKS](https://documenter.getpostman.com/view/27396263/2sA3JM7MMA)
+- 👨‍💻 All of my projects are available at [https://zidanindratama.vercel.app/](https://zidanindratama.vercel.app/)
+- 💬 Ask me about **ReactJS, NextJS, and NestJS**
+- 📫 How to reach me **zidanindratama03@gmail.com**
+- ⚡ Fun fact **I really really love being a Front-End Developer**
 
 ---
 
