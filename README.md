@@ -55,6 +55,9 @@
 
 ---
 
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-![Zidan Indratama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama&rank_icon=github)
+ 
+![Zidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanindratama\&rank_icon=github)
+
 </div>
