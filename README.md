@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on [BREVET](https://tax-center-brevet.vercel.app/)
 - 🌱 I’m currently learning **NextJS, NestJS, and Docker**
-- 👯 I’m looking to collaborate on [TRAVOLKS](https://documenter.getpostman.com/view/27396263/2sA3JM7MMA)
+- 👯 I’m looking to collaborate on [TRAVOLKS](https://travolks-pro.vercel.app/)
 - 👨‍💻 All of my projects are available at [https://zidanindratama.vercel.app/](https://zidanindratama.vercel.app/)
 - 💬 Ask me about **ReactJS, NextJS, and NestJS**
 - 📫 How to reach me **zidanindratama03@gmail.com**
