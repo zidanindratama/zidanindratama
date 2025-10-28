@@ -22,9 +22,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [BREVET](https://tax-center-brevet.vercel.app/)
-- 🌱 I’m currently learning **NextJS, NestJS, and Docker**
-- 👯 I’m looking to collaborate on [TRAVOLKS](https://travolks-pro.vercel.app/)
+- 🔭 I’m currently working on [BREVET](https://tax-center-brevet-gunadarma.vercel.app/)
+- 🌱 I’m currently learning **NextJS, NestJS, Go and Docker**
+- 👯 I’m looking to collaborate on [Predictive Lead Scoring](https://github.com/zidanindratama/fe-predictive-lead-scoring)
 - 👨‍💻 All of my projects are available at [https://zidanindratama.vercel.app/](https://zidanindratama.vercel.app/)
 - 💬 Ask me about **ReactJS, NextJS, and NestJS**
 - 📫 How to reach me **zidanindratama03@gmail.com**
